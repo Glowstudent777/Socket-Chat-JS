@@ -1,6 +1,6 @@
 # Socket Chat
 
-This is a basic server-client chat made with [Socket.io](https://socket.io/) and TypeScript
+This is a basic server-client chat made with [Socket.io](https://socket.io/) and JavaScript
 
 ## Installation
 
