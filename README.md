@@ -24,18 +24,20 @@ pnpm install
 ### Starting the Server
 
 ```sh
-./server.sh
+server.sh
 ```
 
 ### Using a Client
 
+You can have as many clients open as you like on your device at once. To open a new client window just run the following command:
+
 ```sh
-./client.sh
+client.sh
 ```
 Enter your username and hit <kbd>Enter</kbd>
 
-| Command | Function            | Usage        |
-| ------- | ------------------- | ------------ |
-| b;      | Sends a message     | b; <message> |
-| ls;     | Shows users in chat | ls;          |
-| q;      | Exits chat          | q;           |
+| Command | Function            | Usage         |
+| ------- | ------------------- | ------------- |
+| b;      | Sends a message     | b; \<message> |
+| ls;     | Shows users in chat | ls;           |
+| q;      | Exits chat          | q;            |
